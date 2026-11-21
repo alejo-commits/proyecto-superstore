@@ -18,4 +18,4 @@ lineal simple (R² = -0.748) no basta para predecir la ganancia.
 - `video/`: video de presentación
 
 ## Video
-[Enlace al video]
+https://youtu.be/dLIocrsan9s
