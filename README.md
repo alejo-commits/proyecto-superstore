@@ -1,6 +1,6 @@
 #análisis de ventas (Superstore)
 
-**Integrantes:** Jimmy Alejandro Martinez Echeverry, [otros integrantes]
+**Integrante:** Jimmy Alejandro Martinez Echeverry, [otros integrantes]
 
 **Pregunta central:** ¿Qué categorías, regiones y segmentos generan más
 ganancia, y cómo afectan los descuentos a la rentabilidad?
